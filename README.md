@@ -4,3 +4,4 @@ requirement
 python
 PyQt5
 requests
+Create by akiro , mr robot , shav4 , nsky , fsociety
